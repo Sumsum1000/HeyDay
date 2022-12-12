@@ -1,0 +1,47 @@
+body{
+    background-color: lightcyan;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.create-files{
+    background-color: rgb(214, 230, 237);
+    border-bottom: 1px solid black;
+    padding: 0 50px 0 50px;
+    height: 30%;
+
+}
+
+.display-files{
+    background-color: rgb(229, 198, 154);
+    padding: 0 50px 0 50px;
+    height: 70%;
+}
+
+h1{
+    color: rgb(70, 99, 122);
+}
+
+h5{
+    padding: 0;
+    margin: 0;
+    font-size: 130%;
+}
+
+h5:hover{
+    color: rgb(30, 135, 158);
+}
+
+ul{
+    padding: 0;
+}
+
+.folder{
+    margin-left: 40px;
+}
+
+
+
